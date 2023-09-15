@@ -23,6 +23,22 @@
                     "__v": 0,
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f3ee6eeae7b433079267ec/projects/64fa738c197d48209b8fb11c/assets/64fb758366b9fce9ba942041?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230914%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230914T154044Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=32cfa71b740a103288fbfdaf055f008f9b8c37002b3449ecec502d5bffbc0bd82e7bcdab77893e31c2e68b095d58847acf2d03ab071dddfda3165f205f4fe7a1325892d4dc5603608577b5e07a6a0b821da9b2b6b9bf85369766afd72d7673cb31e68041d0ec4821314819cefca4ce86d33d3f915a709b7b48cc3f0ce6e62eb480ad71157730f522e4616f7b64d6b5f919c2707812a506adcf7bc328570679d293413d69fd595f2335861d65cad13a4ee22fa8abcfcfa80a628fe9f44d348320130d4ec6a6318323390df986535e64d57a175d7fcb7019227c77f1eac4891251aa12d0f9322621367c1b44d366eaa9675a0ecac0be8794ad8174434c95103583",
                     "signedUrlExpirationTime": 1694878844175
+                },
+                "65039d075ba2cc264e99d409": {
+                    "externalStorageType": "GCS",
+                    "_id": "65039d075ba2cc264e99d409",
+                    "size": "54833",
+                    "mimetype": "audio/x-m4a",
+                    "encoding": "7bit",
+                    "originalname": "Recording.m4a",
+                    "backendURI": "/project/65032c02c230572ac71c738a/getasset/65039d075ba2cc264e99d409",
+                    "name": "Recording.m4a",
+                    "externalName": "users/64f3ee6eeae7b433079267ec/projects/65032c02c230572ac71c738a/assets/65039d075ba2cc264e99d409",
+                    "createdAt": "2023-09-14T23:53:44.032Z",
+                    "updatedAt": "2023-09-14T23:53:44.032Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f3ee6eeae7b433079267ec/projects/65032c02c230572ac71c738a/assets/65039d075ba2cc264e99d409?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230914%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230914T235344Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=735868c4dbeb1771bfd178fdf93003249163e56f3a864b1b939d78a807c015aad3a1571dcf9000a32c7e2a33e245e96e491911c30928610bcd5b40f42d1e02eabd4bb71ef3d303dcf848de9b79562c4655125f469ef9735e0b61677761492443beefeea8869de734eaebc68038e3e79c5b572431fd1ff2a64596315edd6092e58ec6f4518c141892d25f17f927f699aaf3986b6a49e84c05429bfdb70e39dc28f6012275fc9e8df4af764cfdcfff065eff8a9324d890c6524358ae7724263462d9fc5a4542d99c33899a805fab80dfb3ae20a6cabd2acd34da7a2b72c930b115d80bd5e98379f9419d9b80107a2c15ceb8d896059bcc48ce024be43916559147",
+                    "signedUrlExpirationTime": 1694908424060
                 }
             },
             "backendUpgradeVersion": 21,
@@ -81,7 +97,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App JSON",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -115,7 +131,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +180,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -192,7 +208,13 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "b5b3bd42-0a69-443d-a2a1-bae6c4238946": {
+                    "scope": "APP",
+                    "name": "voice_confirmation",
+                    "screenId": "9b26b1f8-c60e-48c6-87d9-009acc480876"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
