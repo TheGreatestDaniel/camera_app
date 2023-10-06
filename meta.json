@@ -8,42 +8,56 @@
                 }
             },
             "assets": {
-                "64fb758366b9fce9ba942041": {
+                "650b8e7ffcff9545c8cfa592": {
                     "externalStorageType": "GCS",
-                    "_id": "64fb758366b9fce9ba942041",
-                    "size": "53612",
+                    "_id": "650b8e7ffcff9545c8cfa592",
+                    "size": "36095",
                     "mimetype": "image/png",
                     "encoding": "7bit",
-                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "backendURI": "/project/64fa738c197d48209b8fb11c/getasset/64fb758366b9fce9ba942041",
-                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "externalName": "users/64f3ee6eeae7b433079267ec/projects/64fa738c197d48209b8fb11c/assets/64fb758366b9fce9ba942041",
-                    "createdAt": "2023-09-08T19:26:59.702Z",
-                    "updatedAt": "2023-09-08T19:26:59.702Z",
+                    "originalname": "Screenshot 2023-09-20 202914.png",
+                    "backendURI": "/project/650b5d40fcff952f95ce3d3c/getasset/650b8e7ffcff9545c8cfa592",
+                    "name": "Screenshot 2023-09-20 202914.png",
+                    "externalName": "users/64f3ee6eeae7b433079267ec/projects/650b5d40fcff952f95ce3d3c/assets/650b8e7ffcff9545c8cfa592",
+                    "createdAt": "2023-09-21T00:29:52.080Z",
+                    "updatedAt": "2023-09-21T00:29:52.080Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f3ee6eeae7b433079267ec/projects/64fa738c197d48209b8fb11c/assets/64fb758366b9fce9ba942041?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230914%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230914T154044Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=32cfa71b740a103288fbfdaf055f008f9b8c37002b3449ecec502d5bffbc0bd82e7bcdab77893e31c2e68b095d58847acf2d03ab071dddfda3165f205f4fe7a1325892d4dc5603608577b5e07a6a0b821da9b2b6b9bf85369766afd72d7673cb31e68041d0ec4821314819cefca4ce86d33d3f915a709b7b48cc3f0ce6e62eb480ad71157730f522e4616f7b64d6b5f919c2707812a506adcf7bc328570679d293413d69fd595f2335861d65cad13a4ee22fa8abcfcfa80a628fe9f44d348320130d4ec6a6318323390df986535e64d57a175d7fcb7019227c77f1eac4891251aa12d0f9322621367c1b44d366eaa9675a0ecac0be8794ad8174434c95103583",
-                    "signedUrlExpirationTime": 1694878844175
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f3ee6eeae7b433079267ec/projects/650b5d40fcff952f95ce3d3c/assets/650b8e7ffcff9545c8cfa592?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231006%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231006T204018Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9c4af97a049fcf381298111d43d91a9d25bbedfe86a03de5cf3be157ba43ef5a4c07b5dd6527dcb866816bbed8e7f144f01bcd5b509f5d5e21407fa8e267ff2da6508d1c91eec0d6e1ab02015353fbc94c19f008bf94c5d48a158728009e55db96e7708715f6df546850b5248a6d6958653905470e5d261284771ca61b5415dff0ad3a5a4c843825dbbc3560f50986ea4533858b3178ff2dca27bd10bbb22e53c7332c2badea07a64bcaea2b7fa9491f827ee6f66d5f52a79ea2ff25bbf6906cdaeee33c814abbe7a58c20ac83db575c9e39a9fae654a727ec1871199e03f71a902144dcbe2900481ca99672c1bc2ec1da25d05cc83a792dadb5f56cb74332eb",
+                    "signedUrlExpirationTime": 1696797618392
                 },
-                "65039d075ba2cc264e99d409": {
+                "650b8ed4fcff951544cfaa09": {
                     "externalStorageType": "GCS",
-                    "_id": "65039d075ba2cc264e99d409",
-                    "size": "54833",
-                    "mimetype": "audio/x-m4a",
+                    "_id": "650b8ed4fcff951544cfaa09",
+                    "size": "9821",
+                    "mimetype": "image/png",
                     "encoding": "7bit",
-                    "originalname": "Recording.m4a",
-                    "backendURI": "/project/65032c02c230572ac71c738a/getasset/65039d075ba2cc264e99d409",
-                    "name": "Recording.m4a",
-                    "externalName": "users/64f3ee6eeae7b433079267ec/projects/65032c02c230572ac71c738a/assets/65039d075ba2cc264e99d409",
-                    "createdAt": "2023-09-14T23:53:44.032Z",
-                    "updatedAt": "2023-09-14T23:53:44.032Z",
+                    "originalname": "Screenshot 2023-09-20 203105.png",
+                    "backendURI": "/project/650b5d40fcff952f95ce3d3c/getasset/650b8ed4fcff951544cfaa09",
+                    "name": "Screenshot 2023-09-20 203105.png",
+                    "externalName": "users/64f3ee6eeae7b433079267ec/projects/650b5d40fcff952f95ce3d3c/assets/650b8ed4fcff951544cfaa09",
+                    "createdAt": "2023-09-21T00:31:17.017Z",
+                    "updatedAt": "2023-09-21T00:31:17.017Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f3ee6eeae7b433079267ec/projects/65032c02c230572ac71c738a/assets/65039d075ba2cc264e99d409?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230914%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230914T235344Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=735868c4dbeb1771bfd178fdf93003249163e56f3a864b1b939d78a807c015aad3a1571dcf9000a32c7e2a33e245e96e491911c30928610bcd5b40f42d1e02eabd4bb71ef3d303dcf848de9b79562c4655125f469ef9735e0b61677761492443beefeea8869de734eaebc68038e3e79c5b572431fd1ff2a64596315edd6092e58ec6f4518c141892d25f17f927f699aaf3986b6a49e84c05429bfdb70e39dc28f6012275fc9e8df4af764cfdcfff065eff8a9324d890c6524358ae7724263462d9fc5a4542d99c33899a805fab80dfb3ae20a6cabd2acd34da7a2b72c930b115d80bd5e98379f9419d9b80107a2c15ceb8d896059bcc48ce024be43916559147",
-                    "signedUrlExpirationTime": 1694908424060
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f3ee6eeae7b433079267ec/projects/650b5d40fcff952f95ce3d3c/assets/650b8ed4fcff951544cfaa09?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231006%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231006T204018Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4762ecd8f60c7457074caa30d15d053517a3f26556ccd62925a909aba3021b22c6b4a006b37499cecdd055b9c5e1438f9de9bea9dfaa0b72a4c42aee5e9dada9a1d848b78542b4ac402e8895c7fe36c56a1e807f941d376d8482db4230584adcfb495aec5ea8a7aa33845ac0edbdc2a828195a2ddd23332232ec7acc5833c1edee9e60bdd6ec45f4a4efc96cf3ffd4fcd7c92a8f167ba310f317fecc7a877aab2656efd826fa7da58567e0efdfd9a4f5ed209209ebe46a15ad7a4336b68467ad3b38a379759cd43b565f5e81f13ab0ebc496c7f0351a44b01e616d0243494b029418e838472ac4f6e9d6ca8a6d55f604640072ef43346d04f04c1dec6bd01324",
+                    "signedUrlExpirationTime": 1696797618394
                 }
             },
             "backendUpgradeVersion": 21,
             "blockly": {
-                "9b26b1f8-c60e-48c6-87d9-009acc480876": {
+                "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    }
+                },
+                "25f37915-c7f4-4306-8a6c-8d104dffe547": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    }
+                },
+                "96ff0ecd-5794-4969-bbcf-86034312f824": {
                     "xml": "",
                     "permissions": {
                         "android": [
@@ -62,42 +76,26 @@
                             }
                         ]
                     }
-                },
-                "e993b5e9-aeca-4a4c-b67a-5eb4f4723a32": {
-                    "xml": "",
-                    "permissions": {
-                        "android": [
-                            "android.permission.CAMERA",
-                            "android.permission.RECORD_AUDIO"
-                        ],
-                        "ios": [
-                            {
-                                "name": "NSCameraUsageDescription",
-                                "label": "Camera",
-                                "hint": "Describe why your app uses the camera."
-                            },
-                            {
-                                "name": "NSMicrophoneUsageDescription",
-                                "label": "Microphone",
-                                "hint": "Describe why your app uses the microphone."
-                            }
-                        ]
-                    }
                 }
             },
-            "categories": [
-                "Just testing"
-            ],
+            "categories": [],
             "components": {
                 "children": [
-                    "Photo Screen.9b26b1f8-c60e-48c6-87d9-009acc480876",
-                    "Video Screen.e993b5e9-aeca-4a4c-b67a-5eb4f4723a32"
+                    {
+                        "id": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                    },
+                    {
+                        "id": "96ff0ecd-5794-4969-bbcf-86034312f824"
+                    },
+                    {
+                        "id": "25f37915-c7f4-4306-8a6c-8d104dffe547"
+                    }
                 ]
             },
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App JSON",
+            "projectName": "Authenticated Profile App",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -109,10 +107,10 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
-                "stripePublishableKeyTest": null,
-                "stripePublishableKeyLive": null,
+                "firebaseAPIKey": "AIzaSyCooX9Vf7l2RfgWO0pWXeaJ8MIwSAcle8w",
+                "firebaseDatabaseURL": "https://authenticated-profile-app-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
                 "stripeTestMode": true,
                 "isPublic": true,
@@ -121,12 +119,12 @@
                 "pushNotificationAndroidAppId": null,
                 "pushNotificationIOSAppId": null,
                 "pushNotificationGeolocationEnabled": null,
-                "yandexAPIKey": null,
-                "imageRecognizerServerURL": null,
-                "imageRecognizerSubscriptionKey": null,
-                "cloudName": null,
-                "cloudinaryAPIKey": null,
-                "cloudinaryAPISecret": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
                 "permissions": {
                     "ios": {
                         "usageDescriptions": {
@@ -158,10 +156,10 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
-                "stripePublishableKeyTest": null,
-                "stripePublishableKeyLive": null,
+                "firebaseAPIKey": "AIzaSyCooX9Vf7l2RfgWO0pWXeaJ8MIwSAcle8w",
+                "firebaseDatabaseURL": "https://authenticated-profile-app-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
                 "stripeTestMode": true,
                 "isPublic": true,
@@ -170,12 +168,12 @@
                 "pushNotificationAndroidAppId": null,
                 "pushNotificationIOSAppId": null,
                 "pushNotificationGeolocationEnabled": null,
-                "yandexAPIKey": null,
-                "imageRecognizerServerURL": null,
-                "imageRecognizerSubscriptionKey": null,
-                "cloudName": null,
-                "cloudinaryAPIKey": null,
-                "cloudinaryAPISecret": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
                 "permissions": {
                     "ios": {
                         "usageDescriptions": {
@@ -196,7 +194,7 @@
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
-            "hasAdmob": false,
+            "hasAdmob": true,
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
@@ -205,14 +203,34 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "1",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
-                "b5b3bd42-0a69-443d-a2a1-bae6c4238946": {
+                "6b87aedc-b86a-47c7-8a22-7b037b138213": {
                     "scope": "APP",
-                    "name": "voice_confirmation",
-                    "screenId": "9b26b1f8-c60e-48c6-87d9-009acc480876"
+                    "name": "currentlySigningUp",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "de2648d3-b8c8-4792-90a8-f0146ee120c2": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "ee07e1a1-8a94-41db-9a81-070a794c008c": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "31605c78-7923-42a5-b2a2-b54fc023eb2c": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "71e1b0fc-d23a-4771-8899-00816d2bb22a": {
+                    "scope": "APP",
+                    "name": "user ID",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
                 }
             },
             "defaultDesignerDevice": "PHONE",
